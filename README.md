@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Ankit Raj Tiwary a Btech 3rd year student in BIT Mesra presuing Computer Science and Engineeering.I am a Data Science enthusiast with expertise in machine learning, data analysis, and developing data-driven solutions to solve complex problems. Passionate about leveraging statistical modeling, deep learning, and data visualization to extract meaningful insights. Eager to apply analytical and programming skills to real-world challenges, contribute to innovative projects, and drive 
+Hi I am Ankit Raj Tiwary a Btech 3rd year student in BIT Mesra persuing Computer Science and Engineeering.I am a Data Science enthusiast with expertise in machine learning, data analysis, and developing data-driven solutions to solve complex problems. Passionate about leveraging statistical modeling, deep learning, and data visualization to extract meaningful insights. Eager to apply analytical and programming skills to real-world challenges, contribute to innovative projects, and drive 
 data-informed decision-making.
 
 
@@ -13,10 +13,6 @@ data-informed decision-making.
 ![](https://nirzak-streak-stats.vercel.app/?user=Ankit-tiwary-26&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-tiwary-26&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ankit-tiwary-26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ankit-tiwary-26&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
