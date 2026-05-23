@@ -35,8 +35,8 @@ class AnkitRajTiwary:
         self.role        = "Data Science Enthusiast | ML Engineer"
         self.passions    = ["Machine Learning", "Deep Learning", "Data Visualization",
                             "Statistical Modeling", "Building Data-Driven Products"]
-        self.languages   = ["Python 🐍", "Java ☕", "C", "SQL", "JavaScript"]
-        self.currently   = "Exploring LLMs & MLOps pipelines"
+        self.languages   = ["Python ", "Java ", "C", "SQL", "JavaScript"]
+        self.currently   = "Exploring LLMs, RAG & MLOps pipelines"
         self.goal        = "Land a high-impact Data Science / ML role 🚀"
 
     def say_hi(self):
