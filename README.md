@@ -90,19 +90,6 @@ me.say_hi()
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankit-tiwary-26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Ankit-tiwary-26&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-tiwary-26&theme=tokyonight&hide_border=true&layout=donut&count_private=true&langs_count=8" />
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -110,16 +97,6 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ankit-tiwary-26&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8" alt="trophies"/>
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-tiwary-26&theme=tokyo-night&hide_border=true&area=true&custom_title=Ankit's%20Contribution%20Graph" alt="Activity Graph" />
 
 </div>
 
